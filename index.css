@@ -1,0 +1,15 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 21px;
+    font-weight: bold;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
